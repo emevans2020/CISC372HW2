@@ -1,0 +1,7 @@
+(a) unsigned long int (*[])[n]
+array-of-pointers-to-array-of-length-n-to-unsigned long int
+(b) int * *
+pointer-to-pointer-of-int
+(c) double *[n1][n2][n3]
+array-of-length-n1-to-array-of-length-n2-to-array-of-length-n3-of-pointer-to-double
+(d) sizeof(int*)

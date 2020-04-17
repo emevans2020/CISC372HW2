@@ -1,0 +1,8 @@
+Using your program, come up with the best estimate you can for the
+probability of receiving a straight flush in a random hand.  Put your
+answer in a README file.  (The answer is a number between 0 and 1.)
+
+The total number of straight flushes encountered is 15 
+The fraction of hands that were	 straight flushes is 0.000015
+The estimate I have is 0.000015.
+
